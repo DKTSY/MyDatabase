@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <provider
+            android:authorities="nidaren.mydatabase"
+            android:name=".database.DataContent" />
+
     </application>
 
 </manifest>
