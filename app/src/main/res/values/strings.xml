@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyDatabase</string>
+    <string name="insert">Insert</string>
+    <string name="select">Select</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="action_settings">Settings</string>
+</resources>
